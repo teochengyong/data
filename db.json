@@ -1,5 +1,6 @@
-[
-  {
+{
+  users:[
+    {
     "id": 1,
     "Name": "Post 1",
     "UserName": "Username 1",
@@ -77,4 +78,5 @@
     "Phone": "+6599990000",
     "Website": "https://wwww.person10.com"
   }
-]
+  ]
+}
