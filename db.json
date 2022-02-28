@@ -1,82 +1,81 @@
 {
-  users:[
+  "users": [
     {
-    "id": 1,
-    "Name": "Post 1",
-    "UserName": "Username 1",
-    "Email": "user1@email.com",
-    "Phone": "+6599991111",
-    "Website": "https://wwww.person1.com"
-  }, {
-    "id": 2,
-    "Name": "Post 2",
-    "UserName": "Username 2",
-    "Email": "user2@email.com",
-    "Phone": "+6599992222",
-    "Website": "https://wwww.person2.com"
-  },  {
-    "id": 3,
-    "Name": "Post 3",
-    "UserName": "Username 3",
-    "Email": "user3@email.com",
-    "Phone": "+6599993333",
-    "Website": "https://wwww.person3.com"
-  },  {
-    "id": 1,
-    "Name": "Post 4",
-    "UserName": "Username 4",
-    "Email": "user1@email.com",
-    "Phone": "+6599994444",
-    "Website": "https://wwww.person4.com"
-  },  {
-    "id": 1,
-    "Name": "Post 5",
-    "UserName": "Username 5",
-    "Email": "user1@email.com",
-    "Phone": "+6599995555",
-    "Website": "https://wwww.person5.com"
-  },  {
-    "id": 1,
-    "Name": "Post 6",
-    "UserName": "Username 6",
-    "Email": "user6@email.com",
-    "Phone": "+6599996666",
-    "Website": "https://wwww.person6.com"
-  },  {
-    "id": 1,
-    "Name": "Post 7",
-    "UserName": "Username 7",
-    "Email": "user7@email.com",
-    "Phone": "+6599997777",
-    "Website": "https://wwww.person7.com"
-  },  {
-    "id": 1,
-    "Name": "Post 1",
-    "UserName": "Username 1",
-    "Email": "user1@email.com",
-    "Phone": "+6599991111",
-    "Website": "https://wwww.person1.com"
-  },  {
-    "id": 1,
-    "Name": "Post 8",
-    "UserName": "Username 8",
-    "Email": "user1@email.com",
-    "Phone": "+6599998888",
-    "Website": "https://wwww.person8.com"
-  },  {
-    "id": 1,
-    "Name": "Post 9",
-    "UserName": "Username 9",
-    "Email": "user9@email.com",
-    "Phone": "+6599991111",
-    "Website": "https://wwww.person1.com"
-  },  {
-    "id": 10,
-    "Name": "Post 10",
-    "UserName": "Username 10",
-    "Email": "user10@email.com",
-    "Phone": "+6599990000",
-    "Website": "https://wwww.person10.com"
-  }
+      "id": 1,
+      "UserName": "Username 1",
+      "Email": "user1@email.com",
+      "Phone": "+6599991111",
+      "Website": "https://wwww.person1.com"
+    },
+    {
+      "id": 2,
+      "UserName": "Username 2",
+      "Email": "user2@email.com",
+      "Phone": "+6599992222",
+      "Website": "https://wwww.person2.com"
+    },
+    {
+      "id": 3,
+      "UserName": "Username 3",
+      "Email": "user3@email.com",
+      "Phone": "+6599993333",
+      "Website": "https://wwww.person3.com"
+    },
+    {
+      "id": 1,
+      "UserName": "Username 4",
+      "Email": "user1@email.com",
+      "Phone": "+6599994444",
+      "Website": "https://wwww.person4.com"
+    },
+    {
+      "id": 1,
+      "UserName": "Username 5",
+      "Email": "user1@email.com",
+      "Phone": "+6599995555",
+      "Website": "https://wwww.person5.com"
+    },
+    {
+      "id": 1,
+      "UserName": "Username 6",
+      "Email": "user6@email.com",
+      "Phone": "+6599996666",
+      "Website": "https://wwww.person6.com"
+    },
+    {
+      "id": 1,
+      "UserName": "Username 7",
+      "Email": "user7@email.com",
+      "Phone": "+6599997777",
+      "Website": "https://wwww.person7.com"
+    },
+    {
+      "id": 1,
+      "UserName": "Username 1",
+      "Email": "user1@email.com",
+      "Phone": "+6599991111",
+      "Website": "https://wwww.person1.com"
+    },
+    {
+      "id": 1,
+      "UserName": "Username 8",
+      "Email": "user1@email.com",
+      "Phone": "+6599998888",
+      "Website": "https://wwww.person8.com"
+    },
+    {
+      "id": 1,
+      "UserName": "Username 9",
+      "Email": "user9@email.com",
+      "Phone": "+6599991111",
+      "Website": "https://wwww.person1.com"
+    },
+    {
+      "id": 10,
+      "UserName": "Username 10",
+      "Email": "user10@email.com",
+      "Phone": "+6599990000",
+      "Website": "https://wwww.person10.com"
+    }
   ]
 }
